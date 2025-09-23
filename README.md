@@ -51,12 +51,6 @@ We used the following standard metrics for handwritten text recognition:
 
 *(Values shown are from the best validation epoch; results may vary depending on training split and dataset quality.)*  
 
-### Example Confusion Matrix  
-
-<p align="center">
-  <img src="results/confusion_matrix.png" alt="Confusion Matrix" width="500">
-</p>  
-
 ---
 
 ## 📌 Project Scope & Results  
