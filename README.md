@@ -42,7 +42,6 @@ We used the following standard metrics for handwritten text recognition:
 
 - **Character Error Rate (CER)** – measures character-level accuracy  
 - **Word Error Rate (WER)** – measures word-level accuracy  
-- **Confusion Matrix** – visualizes commonly misclassified characters  
 
 | Metric | Score |
 |--------|-------|
