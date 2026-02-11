@@ -24,7 +24,7 @@ from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping, TensorBoa
 
 # --- Configuration ---
 
-DATASET_BASE_PATH = "C:\\Users\\MAANISHA\\OneDrive\\Desktop\\tam\\datasets"
+DATASET_BASE_PATH = "Your dataset path"
 
 TRAIN_CSV = os.path.join(DATASET_BASE_PATH, "train", "train.csv")
 
